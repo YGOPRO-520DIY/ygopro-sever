@@ -1,0 +1,40 @@
+Serverd: Debug: "CallCardFunction(c049900cinifalLeffectp attempt to callan error function
+[ServeriCallCardFunction"(c34340012.initial effecl): attempt to call an error function
+[Serverj: Debug: [string "seriptlc10150011uaJ1 Rarameter 2 should be "Function"
+[Server: Debug: "CallCardEunction"(c69696914.initial effect): attempt to call an error function
+[ServerfiDebug: "CallCardFunction"(c502 18149.initial effecf: attempt to call an error function
+[Server: "CallCardFunction(c50218150i.nifal ffect ftempt fo call a enor function
+[Server: [string "scriptc2053 lua":5: attempt to index a nill value (global rsfv)
+[Serverd: Debug: [string scrp1c 3257222ua 10 ) expecied ( close ( at line 9) near 'e0
+[ServeriCallCardFunction(e13257222initial_ ffecty attemptfo call an eror function  55
+[Server: [string "./script/c5200006.aT20 attempt fo perform arithmetic on a oil value (global EFFECT FL
+[Server: [string”lscript/c10150073.lua":22: Parameter 2 should be "Eunctian"
+[Server]: Debug: "CallCardFinction(c34340040.inilat effeaty attempt to callan erron function
+[Serverj:Debug: "CallCardFunction"(c 18003012nital effect); attempt to call an error function 
+[Server]: Debug: [string "/scriplc10142001.lua8 attempt fo performarithmetic on a nil value (global 'EFF
+[Serverjrstring "./script/c15510007 .lua"].30: )' expedted (ta closel(l atline 29)near 'end'  55[Server]. "CallCardFunctionK15510007 inilial_ ffeci).attempt ío call an enor function
+[Server]: Debug: "CallCardFunction"c13572148.initial effect): attempt to call an error function
+[Server: Debug: [string "Iscriplo10113050.lua]Z atfemptfo index a aivaue (global 'e4')
+[Server: Debug: "CallCardEunction"(c13572125.initial effect): attempt to call an error function
+[Server: Debug: [string yseipte15510006.lua:30 yexpecied (to close'( at line 29) near 'end
+[Serveii'CallCardFunction(1551006initial efeciy attempt fo call an ener function
+[Server: Debug: "CallCardFundtion6600061nital effect; aftemptto call an error function
+[Server: Debug: "CallCardFunction"(c13572 127.initial effect): attempt to call an. error function
+[Serveri,Debug: "CallCardFunction"(c.9696920initial effect): attempt fo callan error function
+[Server: Debug: "CallCardFunction"(c1357210jiflLeffect affemptto callan error function
+[Server: Debug: "CallCardFunction"(c13572146.inital effect): attempt to call an error function
+[Server: Debug: [string "/scripto10113040luaJ7 affemptto index a ni value (global 'e3')
+[Server: Debug: "CallCardEunction"(c13572147Zinitial effect): attempt to call an error function
+[Server: Debug: [string "/scripto10113040luaJ7 affemptto index a ni value (global 'e3')
+[Server: Debug: "CallCardEunction"(c13572147Zinitial effect): attempt to call an error function
+[Server;:Debug: [string "［/script/c26000200.lua］:90: attempt to index a nilvalue (global c44874522)
+[Serverl: [string "./scriptc26000200 lua]41: Parameler 2 should be "FUnctionl
+[Server: Debug: [string "/scriptc10140007uaT26 attempt fo index a rdif-value (global c79777187)
+[ServeriCallCardFunction(c135721231iniial_ effect): attemipt to call aneocfunction
+[Server]: Debug: "CallCardFunction"(c135721 19.inilial effect atfemptifo callan error function
+[Server: "CallCardFunction"(c69696007 inital effect): attempt to call an eor function
+[Server]: [string "./script/c98706002 .lua"]93Parameter2 should be "Functon"
+[Server]: [string "./script/c2 1520067 lua"T60Parameter2 should be "Function",
+[Serverjrstring "./script/c98706002 .lua"91: Parameter 2 should be "Fundtion"
+[Server]: [string "./script/c21529067 lua"J6Q. Parameler 2 should be "Funcdion".
+[Server]: [string " /script/c98706002 lua"]:91: Parameter 2 should be "Eunction"
