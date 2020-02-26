@@ -1,0 +1,2 @@
+[1.035.0-00] https://codeload.github.com/YGOPRO-520DIY/update/zip/master,
+[1.035.0-01] https://codeload.github.com/YGOPRO-520DIY/ygodcg/zip/master
